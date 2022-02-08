@@ -1,5 +1,4 @@
-# Regression
-Constructing a multi-layer perceptron to regress synthetic data
+# Regression: Constructing a multi-layer perceptron to regress synthetic data.
 In this code, we construct a multi-layer perception with pytorch to regress linear data present in fort.100 file. This data has three columns, time, x and y. There is no vacancy in the data set. 
 This code is able to regress other nonlinear coupled dataset too. I will upload them in future.
 
