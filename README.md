@@ -1,6 +1,5 @@
 # Regression: Constructing a multi-layer perceptron to regress synthetic data.
-In this code, we construct a multi-layer perception with pytorch to regress linear data present in fort.100 file. This data has three columns, time, x and y. There is no vacancy in the data set. 
-This code is able to regress other nonlinear coupled dataset too. I will upload them in future.
+In this code, we construct a multi-layer perception with pytorch to regress univariate data of temperature dependent footfalls in Yellowstone park. This data has two columns, date and footfalls within 3 months. There is no vacancy in the data set. 
 
 
-![Unknown-1](https://user-images.githubusercontent.com/94772017/153022637-c6b1880b-a7a4-4baf-bb2e-9abe5ea4009d.png)
+![50-40-30-30-20](https://user-images.githubusercontent.com/94772017/153746902-00e937d7-e562-4880-b067-efd4d8b2ce23.png)
