@@ -1,4 +1,4 @@
-# Regression: Constructing a multi-layer perceptron to regress synthetic data.
+# Regression: Constructing a multi-layer perceptron to regress data.
 In this code, we construct a multi-layer perception with pytorch to regress univariate data of temperature dependent footfalls in Yellowstone park. This data has two columns, date and footfalls within 3 months. There is no vacancy in the data set. 
 
 
